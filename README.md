@@ -1,7 +1,7 @@
 im a 19yo computer science undergraduate, i program stuff when im bored - [information about me](https://eda.gay/thoughts#about_me)
 
 ![jwansek's github stats](https://github-readme-stats.vercel.app/api?username=jwansek&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwansek&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwansek&layout=compact&theme=dracula&count_private=true)
 
 #### sites i host:
  - https://eda.gay - personal website
