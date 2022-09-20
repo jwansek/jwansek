@@ -16,6 +16,6 @@ currently president of [uea computer science society](https://www.ueasu.org/oppo
  
  #### recent blog posts
  
- - [https://eda.gay/thought?id=18](everything you need to know about old HP IP KVM Switches (EO1010 series))
- - [https://eda.gay/thought?id=20](list of useful blog posts)
- - [https://eda.gay/thought?id=5](about my home server/network setup!)
+ - [everything you need to know about old HP IP KVM Switches (EO1010 series)](https://eda.gay/thought?id=18)
+ - [list of useful blog posts](https://eda.gay/thought?id=20)
+ - [about my home server/network setup!](https://eda.gay/thought?id=5)
