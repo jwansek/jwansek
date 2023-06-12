@@ -1,6 +1,5 @@
 im a 21yo computer science undergraduate, i program stuff when im bored - [information about me](https://eda.gay/thought?id=2)
 
-currently president of [uea computer science society](https://www.ueasu.org/opportunities/society/css/)!
 
 ![jwansek's github stats](https://github-readme-stats.vercel.app/api?username=jwansek&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwansek&layout=compact&theme=dracula&count_private=true)
