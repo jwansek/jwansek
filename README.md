@@ -9,9 +9,9 @@ im a 22yo computer science postgraduate, i program stuff when im bored - [inform
  - ~~https://invidious.eda.gay - alternative youtube frontend~~
  - https://nitter.eda.gay - alternative twitter frontend
  - ~~[https://bibliogram.eda.gay](https://bibliogram.eda.gay/applysettings/c8009ec7533d542a90bb1d41563435c1) - less annoying instagram front end~~
- - ~~https://nc.eda.gay - nextcloud instance - very powerful dropbox/google drive alternative~~
+ - https://nc.eda.gay - nextcloud instance - very powerful dropbox/google drive alternative
  - https://wiki.eda.gay - mediawiki about my homelab setup, my other passion!
- - ~~https://git.eda.gay - my personal git server~~
+ - https://git.eda.gay - my personal git server
  
  #### recent blog posts
  
