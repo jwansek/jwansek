@@ -1,4 +1,4 @@
-im a 22yo computer science postgraduate, i program stuff when im bored - [information about me](https://eda.gay/thought?id=2)
+im a 22yo computer science/robotics postgraduate, i program stuff when im bored - [information about me](https://eda.gay/thought?id=2)
 
 
 ![jwansek's github stats](https://github-readme-stats.vercel.app/api?username=jwansek&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula&count_private=true)
@@ -12,6 +12,8 @@ im a 22yo computer science postgraduate, i program stuff when im bored - [inform
  - https://nc.eda.gay - nextcloud instance - very powerful dropbox/google drive alternative
  - https://wiki.eda.gay - mediawiki about my homelab setup, my other passion!
  - https://git.eda.gay - my personal git server
+
+please buy me a better domain i am literally begging
  
  #### recent blog posts
 
