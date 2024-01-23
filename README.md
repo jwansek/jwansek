@@ -6,12 +6,11 @@ im a 22yo computer science/robotics postgraduate, i program stuff when im bored 
 
 #### sites i host (some stuff is currently down as i am in the process of moving house currently):
  - https://eda.gay - personal website
- - ~~https://invidious.eda.gay - alternative youtube frontend~~
  - https://nitter.eda.gay - alternative twitter frontend
- - ~~[https://bibliogram.eda.gay](https://bibliogram.eda.gay/applysettings/c8009ec7533d542a90bb1d41563435c1) - less annoying instagram front end~~
  - https://nc.eda.gay - nextcloud instance - very powerful dropbox/google drive alternative
  - https://wiki.eda.gay - mediawiki about my homelab setup, my other passion!
  - https://git.eda.gay - my personal git server
+ - https://reg.reaweb.uk - personal docker repository
 
 please buy me a better domain i am literally begging
  
