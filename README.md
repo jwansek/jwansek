@@ -11,7 +11,7 @@ github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgi
  - https://nc.eda.gay - nextcloud instance - very powerful dropbox/google drive alternative
  - https://wiki.eda.gay - mediawiki about my homelab setup, my other passion!
  - https://git.reaweb.uk - my personal git server
- - https://reg.reaweb.uk - personal docker repository
+ - https://reg.reaweb.uk / https://r.vm.gl - personal docker repository
 
 please buy me a better domain i am literally begging
  
