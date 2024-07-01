@@ -5,15 +5,12 @@ github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgi
 ![jwansek's github stats](https://github-readme-stats.vercel.app/api?username=jwansek&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwansek&layout=compact&theme=dracula&count_private=true)
 
-#### sites i host (some stuff is currently down as i am in the process of moving house currently):
- - https://eda.gay - personal website
- - https://nitter.eda.gay - alternative twitter frontend
- - https://nc.eda.gay - nextcloud instance - very powerful dropbox/google drive alternative
- - https://wiki.eda.gay - mediawiki about my homelab setup, my other passion!
+#### sites:
+ - [https://eda.gay](personal website)
+ - [https://nc.eda.gay](nextcloud instance - very powerful dropbox/google drive alternative)
+ - [https://wiki.eda.gay](mediawiki about my homelab setup, my other passion!)
  - https://git.reaweb.uk - my personal git server
  - https://reg.reaweb.uk / https://r.vm.gl - personal docker repository
-
-please buy me a better domain i am literally begging
  
  #### recent blog posts
 
