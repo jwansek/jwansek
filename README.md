@@ -6,9 +6,9 @@ github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwansek&layout=compact&theme=dracula&count_private=true)
 
 #### sites:
- - [https://eda.gay](personal website)
- - [https://nc.eda.gay](nextcloud instance - very powerful dropbox/google drive alternative)
- - [https://wiki.eda.gay](mediawiki about my homelab setup, my other passion!)
+ - [personal website](https://eda.gay)
+ - [nextcloud instance - very powerful dropbox/google drive alternative](https://nc.eda.gay)
+ - [mediawiki about my homelab setup, my other passion!](https://wiki.eda.gay)
  - https://git.reaweb.uk - my personal git server
  - https://reg.reaweb.uk / https://r.vm.gl - personal docker repository
  
