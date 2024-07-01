@@ -1,4 +1,4 @@
-im a 22yo computer science/robotics postgraduate, i program stuff when im bored - [information about me](https://eda.gay/thought?id=2)
+im a 22yo computer science/robotics postgraduate
 
 github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgit-docker) - [here's mine](https://git.reaweb.uk)
 
