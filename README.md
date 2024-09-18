@@ -1,4 +1,4 @@
-im a 22yo computer science/robotics postgraduate
+im a 23yo computer science/robotics postgraduate
 
 github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgit-docker) - [here's mine](https://git.reaweb.uk)
 
@@ -10,7 +10,7 @@ github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgi
  - [nextcloud instance - very powerful dropbox/google drive alternative](https://nc.eda.gay)
  - [mediawiki about my homelab setup, my other passion!](https://wiki.eda.gay)
  - https://git.reaweb.uk - my personal git server
- - https://reg.reaweb.uk / https://r.vm.gl - personal docker repository
+ - https://reg.reaweb.uk - personal docker repository
  
  #### recent blog posts
 
