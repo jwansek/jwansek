@@ -1,4 +1,4 @@
-im a 23yo computer science/robotics postgraduate
+im a 23yo computer science/robotics PhD student
 
 github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgit-docker) - [here's mine](https://git.reaweb.uk)
 
