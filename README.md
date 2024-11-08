@@ -17,5 +17,5 @@ github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgi
  - [proxying ports through a reverse VPN tunnel for homelabbers](https://eda.gay/thought?id=22)
  - [everything you need to know about old HP IP KVM Switches (EO1010 series)](https://eda.gay/thought?id=18)
  - [list of useful blog posts](https://eda.gay/thought?id=20)
- - [about my home server/network setup!](https://eda.gay/thought?id=5)
+ - [about my home server/network setup!](https://wiki.eda.gay/)
  - [my experience at the RoboCup Eindhoven 2024 competition](https://eda.gay/thought?id=26)
