@@ -8,7 +8,7 @@ github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgi
 #### sites:
  - [boymoder.blog](https://boymoder.blog) - personal website
  - [boymoder.cloud](https://boymoder.cloud) / [e.boymoder.cloud](https://e.boymoder.cloud) - nextcloud instance - very powerful dropbox/google drive alternative
- - [wiki.eda.gay](https://wiki.eda.gay) - mediawiki about my homelab setup, my other passion!
+ - [homelabwiki.boymoder.blog](https://homelabwiki.boymoder.blog) - mediawiki about my homelab setup, my other passion!
  - [git.reaweb.uk](https://git.reaweb.uk) - my personal git server
  - [reg.reaweb.uk](https://reg.reaweb.uk) - personal docker registry
  
