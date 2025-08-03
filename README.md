@@ -19,3 +19,4 @@ github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgi
  - [list of useful blog posts](https://boymoder.blog/thought?id=20)
  - [about my home server/network setup!](https://wiki.eda.gay/)
  - [my experience at the RoboCup Eindhoven 2024 competition](https://boymoder.blog/thought?id=26)
+ - [easily bypassing the Online Safety Act by VPNing your entire house to another country](https://boymoder.blog/thought?id=29)
