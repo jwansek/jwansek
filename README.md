@@ -1,16 +1,5 @@
-im a 23yo computer science/robotics PhD student
-
-github sucks! [make your own git server](https://git.sr.ht/~heckyel/gitolite-cgit-docker) - [here's mine](https://git.reaweb.uk)
-
 ![jwansek's github stats](https://github-readme-stats.vercel.app/api?username=jwansek&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwansek&layout=compact&theme=dracula&count_private=true)
-
-#### sites:
- - [boymoder.blog](https://boymoder.blog) - personal website
- - [boymoder.cloud](https://boymoder.cloud) / [e.boymoder.cloud](https://e.boymoder.cloud) - nextcloud instance - very powerful dropbox/google drive alternative
- - [homelabwiki.boymoder.blog](https://homelabwiki.boymoder.blog) - mediawiki about my homelab setup, my other passion!
- - [git.reaweb.uk](https://git.reaweb.uk) - my personal git server
- - [reg.reaweb.uk](https://reg.reaweb.uk) - personal docker registry
  
  #### recent blog posts
 
